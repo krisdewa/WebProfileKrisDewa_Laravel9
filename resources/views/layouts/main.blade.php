@@ -65,7 +65,7 @@ Instagram        : @kris_dewa
     <!-- JS TYPING -->
     <script>
         var typed = new Typed(".typing", {
-            strings: ["Web Developer", "Content Creator", " Junior Cyber Security"],
+            strings: ["Web Developer", "Content Creator", "Cyber Security"],
             typeSpeed: 70,
             backSpeed: 40,
             loop: true,

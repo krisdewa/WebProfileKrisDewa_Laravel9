@@ -61,8 +61,8 @@
                                         <h5>School</h5>
                                         <p class="section-description">Universitas Ahmad Dahlan</p>
                                         <h5>Major</h5>
-                                        <p class="section-description">Teknik Informatika</p>
-                                        <h5>Interest in</h5>
+                                        <p class="section-description">Informatika</p>
+                                        <h5>Focus in</h5>
                                         <p class="section-description">Web Developer & Cyber Security</p>
                                     </div>
                                     <div class="col-xl-6 col-lg-12"></div>
@@ -153,23 +153,13 @@
                     <img src="{{ asset('certificate/acp3.jpg                           ') }}    " alt="" />
                     <img src="{{ asset('certificate/seagate1.jpg                       ') }}    " alt="" />
                     <img src="{{ asset('certificate/seagate2.jpg                       ') }}    " alt="" />
-                    <img src="{{ asset('certificate/webinarbemfti.jpg                  ') }}    " alt="" />
 
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-                    <!-- <img src="assets/certificate/.jpg" alt="" /> -->
-
+                    {{-- <img src="{{ asset('certificate/webinarbemfti.jpg                  ') }}    " alt="" /> --}}
                     {{-- <img src="{{ asset('certificate/webinarpermikomnas.png  ') }}               " alt="" /> --}}
                     {{-- <img src="{{ asset('certificate/webinarcybersecurity.jpg') }}               " alt="" /> --}}
-                    <img src="{{ asset('certificate/mdt.jpg                 ') }}               " alt="" />
-                    <img src="{{ asset('certificate/webinarbssn1.jpg        ') }}               " alt="" />
+                    {{-- <img src="{{ asset('certificate/mdt.jpg                 ') }}               " alt="" /> --}}
+                    {{-- <img src="{{ asset('certificate/webinarbssn1.jpg        ') }}               " alt="" /> --}}
                     {{-- <img src="{{ asset('certificate/webinarinsightus.jpg    ') }}               " alt="" /> --}}
-
                     <!-- <img src="assets/certificate/literasidigital.jpg" alt="" /> -->
                     <!-- <img src="assets/certificate/webinarkominfo.jpg" alt="" /> -->
                     <!-- <img src="assets/certificate/webinarpersada.jpg" alt="" /> -->
@@ -220,7 +210,7 @@
                     <div class="project-item rounded">
                         <img src="{{ asset('portfolio/webprofile1.png') }}" class="w-100" />
                         <div class="overlay-project">
-                            <a class="viewproject" href="https://krisdewa.my.id" target="_blank">Web Profile KrisDewa</a>
+                            <a class="viewproject" href="https://krisdewa.my.id" target="_blank">Web Profile</a>
                         </div>
                     </div>
                 </div>
@@ -300,8 +290,8 @@
                 </p>
 
                 <!-- <div class="signed-logo">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <img src="./assets/logo/logopad.svg" alt="logopad" />
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </div> -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <img src="./assets/logo/logopad.svg" alt="logopad" />
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </div> -->
             </div>
         </div>
         <!-- ENDCONTACT -->
