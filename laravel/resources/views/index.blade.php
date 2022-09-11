@@ -104,7 +104,7 @@
                     <a href="https://getbootstrap.com/" target="_blank"><img class="boostrap"
                             src="{{ asset('icon/bootstrap.svg') }}" alt="bootstrap" /></a>
                     <a href="https://reactjs.org/" target="_blank"><img class="reactjs"
-                            src="{{ asset('icon/reactjs.svg') }}" alt="reactjs" /></a>
+                            src="{{ asset('icon/React-icon.svg') }}" alt="reactjs" /></a>
                     <!-- <img src="assets/icon/git.svg" alt="git" /> -->
                     <!-- <img src="assets/icon/github.svg" alt="php" /> -->
                 </div>
@@ -290,8 +290,8 @@
                 </p>
 
                 <!-- <div class="signed-logo">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <img src="./assets/logo/logopad.svg" alt="logopad" />
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </div> -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <img src="./assets/logo/logopad.svg" alt="logopad" />
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </div> -->
             </div>
         </div>
         <!-- ENDCONTACT -->
