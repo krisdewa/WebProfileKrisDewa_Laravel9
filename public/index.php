@@ -44,7 +44,7 @@ require __DIR__ . '/../laravel/vendor/autoload.php';
 |
 */
 
-$app = require_once __DIR__ . '/../bootstrap/app.php';
+$app = require_once __DIR__ . '/../laravel/bootstrap/app.php';
 
 $kernel = $app->make(Kernel::class);
 
